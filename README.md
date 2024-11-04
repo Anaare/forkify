@@ -13,6 +13,8 @@ To use the app locally, follow these steps:
    git clone <repository-url>
    cd forkify
 2. **Install Dependencies**:
+    ```bash
    npm install
 3. **Start the Development Server**:
+    ```bash
    npm start
