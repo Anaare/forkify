@@ -1,5 +1,18 @@
-# forkify project
+# Forkify Project
 
-Netlify link: https://forkify-anaare.netlify.app/
+**Netlify Link**: [Forkify Application](https://forkify-anaare.netlify.app/)
 
-Recipe application with custom recipe uploads.
+## Description
+Forkify is a recipe application that allows users to explore a variety of recipes and upload their custom recipes. 
+
+## Getting Started
+To use the app locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd forkify
+2. **Install Dependencies**:
+   npm install
+3. **Start the Development Server**:
+   npm start
